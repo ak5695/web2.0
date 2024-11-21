@@ -10,8 +10,15 @@ body{
 
 div{
     color:white;
+    width:100px;
+    margin:10px;
+
 }
 span{
     color:blue;
+<<<<<<< HEAD
     
+=======
+    margin:10px;
+>>>>>>> 5a042dd0b9fe50ec1e427aec941aae126122d24b
 }
